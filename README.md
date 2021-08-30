@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MedAmineAzaiez
-- 👀 I’m interested in Mobile and backend development, 
-- 🌱 I’m currently learning Java Spring Boot
+- 👋 Hi, I’m @MedAmineAzaiez , Currently Project manager and fullstack developer at Nexym, my Primary skills are Mobile development using flutter and back-end development using ruby on rails, I also have some experience with web development and JS.
+- 👀 I’m interested in Mobile and backend development.
+- 🌱 I’m currently learning Java Spring Boot, and angular.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : Damin.azaiez.97@gmail.com
 
