@@ -1,4 +1,5 @@
-4+ years of expertise in the entire software development lifecycle, encompassing analysis, design, development, testing, deployment, and ISO-standard documentation.
-Skilled in crafting mobile applications for iOS and Android platforms, ensuring seamless user experiences.
-Demonstrating a strong grasp of Object-Oriented Programming principles and design expertise, committed to delivering top-notch, user-friendly mobile applications.
-Proven track record as a motivated and result-driven developer, consistently delivering successful mobile applications on schedule and within budget.
+Services I Offer:
+With 4+ years of experience, I provide end-to-end software development, specializing in iOS and Android mobile app creation, including design, testing, and ISO-standard documentation, ensuring seamless user experiences.
+
+What Sets Me Apart:
+Distinguished by strong Object-Oriented Programming skills, I'm dedicated to user-friendly app design. My track record demonstrates motivation and reliability, consistently delivering on-time, on-budget, and successful mobile applications.
