@@ -1,5 +1,4 @@
-Services I Offer:
-With 4+ years of experience, I provide end-to-end software development, specializing in iOS and Android mobile app creation, including design, testing, and ISO-standard documentation, ensuring seamless user experiences.
-
-What Sets Me Apart:
-Distinguished by strong Object-Oriented Programming skills, I'm dedicated to user-friendly app design. My track record demonstrates motivation and reliability, consistently delivering on-time, on-budget, and successful mobile applications.
+• Full-Stack Software Engineer with 6+ years of experience in mobile, web, and backend development.
+• Skilled in Flutter, Node.js, TypeScript, and JavaScript, with expertise in RESTful APIs, GraphQL, cloud computing, and DevOps.
+• Strong background in performance optimization, security, CI/CD pipelines, and scalable architectures.
+• Trilingual: English (Professional), French (Fluent), Arabic (Native), German (B1 in progress).
